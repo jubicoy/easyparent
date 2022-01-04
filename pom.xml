@@ -171,6 +171,7 @@
                     <failBuildOnCVSS>1</failBuildOnCVSS>
                     <cveValidForHours>168</cveValidForHours>
                     <suppressionFile>suppressions.xml</suppressionFile>
+                    <assemblyAnalyzerEnabled>false</assemblyAnalyzerEnabled>
                 </configuration>
             </plugin>
             <plugin>
