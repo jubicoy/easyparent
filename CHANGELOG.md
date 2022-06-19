@@ -6,6 +6,10 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.5] - 2022-06-19
+### Security
+- Update dependencies and plugins.
+
 ## [0.1.4] - 2022-01-05
 ### Removed
 - Dropped Java 8 support.
