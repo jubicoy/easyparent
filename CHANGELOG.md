@@ -6,6 +6,10 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.7] - 2023-03-09
+### Changed
+- Upgrade junit-jupiter from 5.8.2 to 5.9.2.
+
 ## [0.1.6] - 2023-03-09
 ### Security
 - Update dependencies and plugins.
