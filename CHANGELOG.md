@@ -6,6 +6,13 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.8] - 2023-03-15
+### Changed
+- Bump Mockito and JUnit integration to 5.2.0.
+- Bump checkstyle from 10.8.0 to 10.8.1.
+- Bump maven-compiler-plugin from 3.8.1 to 3.11.0.
+- Bump spotbugs-maven-plugin from 4.7.0.0 to 4.7.3.2.
+
 ## [0.1.7] - 2023-03-09
 ### Changed
 - Upgrade junit-jupiter from 5.8.2 to 5.9.2.
