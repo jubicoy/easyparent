@@ -6,6 +6,14 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.9] - 2023-04-13
+### Changed
+- Bump checkstyle from 10.8.1 to 10.9.3
+- Bump maven-surefire-plugin from 2.22.2 to 3.0.0
+- Bump spotbugs-maven-plugin from 4.7.3.2 to 4.7.3.4
+- Bump dependency-check-maven from 8.1.2 to 8.2.1
+- Bump jacoco-maven-plugin from 0.8.8 to 0.8.9
+
 ## [0.1.8] - 2023-03-15
 ### Changed
 - Bump Mockito and JUnit integration to 5.2.0.
