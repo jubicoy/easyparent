@@ -6,6 +6,10 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.10] - 2023-12-04
+### Changed
+- Bump dependency versions.
+
 ## [0.1.9] - 2023-04-13
 ### Changed
 - Bump checkstyle from 10.8.1 to 10.9.3
