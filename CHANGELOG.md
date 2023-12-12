@@ -6,6 +6,11 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.11] - 2023-12-12
+### Changed
+- Bump com.puppycrawl.tools:checkstyle from 10.12.5 to 10.12.6.
+- Bump org.owasp:dependency-check-maven from 9.0.2 to 9.0.4.
+
 ## [0.1.10] - 2023-12-04
 ### Changed
 - Bump dependency versions.
