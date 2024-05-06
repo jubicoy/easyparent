@@ -6,6 +6,20 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.12] - 2024-05-06
+### Changed
+- Update Maven plugins.
+- Bump org.owasp:dependency-check-maven from 9.0.4 to 9.1.0.
+. Bump org.mockito:mockito-core from 5.8.0 to 5.11.0.
+- Bump org.mockito:mockito-junit-jupiter from 5.8.0 to 5.11.0.
+- Bump org.junit.jupiter:junit-jupiter from 5.10.1 to 5.10.2.
+- Bump org.junit.jupiter:junit-jupiter-engine from 5.10.1 to 5.10.2.
+- Bump com.puppycrawl.tools:checkstyle from 10.12.6 to 10.16.0.
+- Bump org.jacoco:jacoco-maven-plugin from 0.8.11 to 0.8.12.
+- Bump com.github.spotbugs:spotbugs-maven-plugin from 4.8.2.0 to 4.8.5.0.
+- Bump com.h3xstream.findsecbugs:findsecbugs-plugin from 1.12.0 to 1.13.0.
+
+
 ## [0.1.11] - 2023-12-12
 ### Changed
 - Bump com.puppycrawl.tools:checkstyle from 10.12.5 to 10.12.6.
