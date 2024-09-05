@@ -6,6 +6,10 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.14] - 2024-09-05
+### Changed
+- Bump org.owasp:dependency-check-maven from 10.0.3 to 10.0.4.
+
 ## [0.1.13] - 2024-08-31
 ### Changed
 - Bump org.mockito:mockito-junit-jupiter from 5.11.0 to 5.13.0.
