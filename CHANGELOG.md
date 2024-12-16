@@ -6,6 +6,19 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.16] - 2024-12-16
+### Changed
+- Bump org.mockito:mockito-junit-jupiter from 5.14.1 to 5.14.2.
+- Bump org.mockito:mockito-core from 5.14.1 to 5.14.2.
+- Bump org.apache.maven.plugins:maven-checkstyle-plugin from 3.5.0 to 3.6.0.
+- Bump org.junit.jupiter:junit-jupiter from 5.11.2 to 5.11.4.
+- Bump org.junit.jupiter:junit-jupiter-engine from 5.11.2 to 5.11.4.
+- Bump com.puppycrawl.tools:checkstyle from 10.18.2 to 10.21.0.
+- Bump org.owasp:dependency-check-maven from 10.0.4 to 11.1.1.
+- Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.1 to 3.5.2.
+- Bump org.apache.maven.plugins:maven-javadoc-plugin from 3.10.1 to 3.11.2.
+- Bump com.github.spotbugs:spotbugs-maven-plugin from 4.8.6.4 to 4.8.6.6.
+
 ## [0.1.15] - 2024-10-09
 ### Changed
 - Bump com.github.spotbugs:spotbugs-maven-plugin from 4.8.6.2 to 4.8.6.4.
