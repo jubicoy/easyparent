@@ -6,6 +6,10 @@ and this project adheres poorly to [Semantic Versioning](https://semver.org/spec
 
 ## [Unreleased]
 
+## [0.1.17] - 2025-04-06
+### Changed
+- Bump dependency and plugin versions.
+
 ## [0.1.16] - 2024-12-16
 ### Changed
 - Bump org.mockito:mockito-junit-jupiter from 5.14.1 to 5.14.2.
